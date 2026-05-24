@@ -69,5 +69,18 @@ Watch a comprehensive, 8-minute architectural breakdown and live execution demo 
 
 ---
 
+## 📥 Download & Quick Start
+
+To experience **ManageDailyTasks** on your machine, follow these simple steps:
+
+1. **Visit the official page:** Go to [zuhairsh.itch.io/managedailytasks](https://zuhairsh.itch.io/managedailytasks).
+2. **Download:** Click the **Download** button to get the compressed package.
+3. **Extract:** Right-click the downloaded `.zip` file and select **"Extract All..."**.
+4. **Run:** Open the extracted folder and double-click **`ManageDailyTasks.exe`** to launch the application.
+
+> 💡 **Pro Tip:** If Windows SmartScreen appears, click **"More Info"** and then **"Run Anyway"**. This is a standard procedure for independent desktop applications.
+
+---
+
 ### ⏱️ Development Insight
 > **Development Time:** This project was constructed during an intensive, focused **8-hour sprint within a single day** (Shift 1: 1:00 PM – 5:00 PM | Shift 2: 12:00 AM – 5:00 AM). It stands as a baseline reflection of clean state management, modular WinForms workflow engineering, and robust algorithmic inputs.

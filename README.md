@@ -67,11 +67,6 @@ Watch a comprehensive, 8-minute architectural breakdown and live execution demo 
 
 *(Note: Please ensure your Google Drive share permissions are set to "Anyone with the link can view")*
 
----
-
-### ⏱️ Development Insight
-> **Development Time:** This project was constructed during an intensive, focused **8-hour sprint within a single day** (Shift 1: 1:00 PM – 5:00 PM | Shift 2: 12:00 AM – 5:00 AM). It stands as a baseline reflection of clean state management, modular WinForms workflow engineering, and robust algorithmic inputs.
-
 
 ----
 

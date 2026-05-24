@@ -62,12 +62,6 @@ Here is a visual walkthrough of the application's interface layout and design:
 ---
 
 ### 🎥 Full Video Walkthrough
-To see the dynamic systems (like the real-time progress bar, double-click completion, and validation workflow) in action, watch the full live demo video here:
-
-[![Watch the Video](https://img.shields.io/badge/Google_Drive-Video_Demo-blue?style=for-the-badge&logo=googledrive&logoColor=white)](ضع_رابط_فيديو_جوجل_درايف_هنا)
-
-*(Note: Please ensure your Google Drive video sharing permission is set to "Anyone with the link can view")*
-### 🎥 Full Video Walkthrough
 Watch a comprehensive, 8-minute architectural breakdown and live execution demo on Google Drive:
 * 🎬 [Watch Project Demo Video](https://drive.google.com/file/d/11tE6M0XPm3_Zvri3ehDH2vTDllc8_mu1/view?usp=sharing)
 
